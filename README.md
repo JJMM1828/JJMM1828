@@ -7,7 +7,9 @@ such as DERMAT.IA for recognizing images of skin conditions, as well as other sm
 ## 🚀 Technologies I use
 
 ### 👨‍💻 Languages
+---
 Junto como frameworks como Springboot, Django y ORM
+---
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
