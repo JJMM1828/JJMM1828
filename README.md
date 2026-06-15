@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Juan
-I am a systems engineering student at the National University of Colombia. I am interested in developing mobile, web, and desktop applications, and I am always eager to learn new technologies and best practices.
-I have worked on basic mobile app development projects and AI integration projects, such as DERMAT.IA for recognizing images of skin conditions, as well as other small projects.
+I am a systems engineering student at the National University of Colombia. 
+I am interested in developing mobile, web, and desktop applications, 
+and I am always eager to learn new technologies and best practices.
+I have worked on basic mobile app development projects and AI integration projects, 
+such as DERMAT.IA for recognizing images of skin conditions, as well as other small projects.
 ## 🚀 Technologies I use
 
 ### 👨‍💻 Languages
