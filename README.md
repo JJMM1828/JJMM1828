@@ -24,5 +24,5 @@ such as DERMAT.IA for recognizing images of skin conditions, as well as other sm
 
 ---
 
-# 📧 Email: (jumanriqueb@unal.edu.co)
+### 📧 Email: (jumanriqueb@unal.edu.co)
 
